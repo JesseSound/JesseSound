@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JesseSound
 - 👀 I’m interested in ... Coding, Pokemon, Music, Video Games, etc
-- 🌱 I’m currently learning ... Unity
-- 💞️ I’m looking to collaborate on ... Unity Games
+- 🌱 I’m currently learning ... Unity, Unreal, C#, C++
+- 💞️ I’m looking to collaborate on ... Unity Games, Unreal games
 - 📫 How to reach me ... @_jessesound on Insta
 
 <!---
